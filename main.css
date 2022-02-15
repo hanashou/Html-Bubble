@@ -1,8 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .bubble-background{
   position: relative;
   background-color: #20C8C6;
   text-align: center;
-  padding-top: 10px;
   height: 100vh;
   width: 100%;
   overflow: hidden;
